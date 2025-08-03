@@ -1,16 +1,16 @@
-## Hi there 👋
+## About me
 
-<!--
-**iaroslav-dzh/iaroslav-dzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am interested in data analyst career. Since it pretty much suits my personal traits and interests.
+1. I am eager to analyze
+2. Finding causal relationships and patterns feels engaging for me
+3. I like model scenarios and their outcomes - also with use of python
+4. I likeform and test hypotheses
+5. I am patient and ready to learn new<br>
 
-Here are some ideas to get you started:
+Fields of data analytics I'm interested in:
+1. product analytics
+2. antifraud analytics<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For now I have my first and only analytics project. It's a bank transactions simulator.
+It generates synthetic dataset of legal and fraudulent transactions and writes it to a file.
+You have a look at it in `fraud_txns_simulator` repo.
