@@ -3,7 +3,7 @@
 I am interested in data analyst career. Since it pretty much suits my personal traits and interests.
 1. I am eager to analyze
 2. Finding causal relationships and patterns feels engaging for me
-3. I like model scenarios and their outcomes - also with use of python
+3. I like modelling scenarios and their outcomes - also with use of python
 4. I like forming and testing hypotheses
 5. I am patient and ready to learn new<br>
 
