@@ -15,4 +15,4 @@ But I don't strictly limit myself to these two areas.<br>
 
 For now I have my first and only analytics project. It's a bank transactions simulator.
 It generates synthetic dataset of legal and fraudulent transactions and writes it to a file.
-You have a look at it in `fraud_txns_simulator` repo.
+You can have a look at it in `fraud_txns_simulator` repo.
